@@ -1,3 +1,7 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Auzzy101/Prinsloo_osint_tool)
+![GitHub repo size](https://img.shields.io/github/repo-size/Auzzy101/Prinsloo_osint_tool)
+![GitHub last commit](https://img.shields.io/github/last-commit/Auzzy101/Prinsloo_osint_tool)
+
 # Prinsloo OSINT Tool 🔍
 
 A modern Open Source Intelligence (OSINT) tool with a user-friendly graphical interface.
