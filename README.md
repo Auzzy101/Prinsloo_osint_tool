@@ -19,3 +19,11 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 osint_gui.py
+
+
+## 🔐 Environment Variables (.env)
+
+To run the tool, create a `.env` file in the root of the project:
+
+```bash
+cp .env.example .env
